@@ -1,4 +1,5 @@
->> ------ Windows ----------
+> ------ Windows ----------
+> 
 >Running the server:
 > 
 > set FLASK_ENV=development
@@ -13,7 +14,7 @@
 > 
 > export FLASK_APP=main.py
 > 
-> flask run
+> flask run --debug
 > 
 > ----------- Server Error ---------
 > 
